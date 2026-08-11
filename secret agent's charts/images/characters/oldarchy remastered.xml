@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oldarchy remastered.png">
+<SubTexture name="oldarchy remastered idle0000" x="0" y="0" width="1178" height="909" frameX="-124" frameY="-56" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0001" x="868" y="909" width="1112" height="876" frameX="-154" frameY="-87" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0002" x="881" y="1790" width="943" height="784" frameX="-225" frameY="-178" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0003" x="2912" y="1470" width="859" height="721" frameX="-337" frameY="-243" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0004" x="0" y="2577" width="855" height="717" frameX="-375" frameY="-249" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0005" x="855" y="2577" width="845" height="713" frameX="-399" frameY="-251" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0006" x="855" y="2577" width="845" height="713" frameX="-399" frameY="-251" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0007" x="855" y="2577" width="845" height="713" frameX="-399" frameY="-251" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0008" x="855" y="2577" width="845" height="713" frameX="-399" frameY="-251" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0009" x="855" y="2577" width="845" height="713" frameX="-399" frameY="-251" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered idle0010" x="855" y="2577" width="845" height="713" frameX="-399" frameY="-251" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered left0000" x="0" y="1790" width="881" height="787" frameX="-147" frameY="-179" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered left0001" x="1824" y="1790" width="868" height="763" frameX="-158" frameY="-205" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered left0002" x="2045" y="844" width="867" height="779" frameX="-168" frameY="-221" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered down0000" x="1176" y="3294" width="1231" height="503" frameX="-247" frameY="-513" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered down0001" x="2743" y="2577" width="1193" height="521" frameX="-250" frameY="-491" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered down0002" x="0" y="3294" width="1176" height="513" frameX="-263" frameY="-483" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered up0000" x="1178" y="0" width="867" height="892" frameX="-358" frameY="-8" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered up0001" x="0" y="909" width="868" height="881" frameX="-357" frameY="-26" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered up0002" x="2045" y="0" width="867" height="844" frameX="-358" frameY="-71" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered right0000" x="2912" y="0" width="1041" height="744" frameX="-533" frameY="-211" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered right0001" x="2912" y="744" width="1020" height="726" frameX="-509" frameY="-228" frameWidth="1608" frameHeight="1197" />
+<SubTexture name="oldarchy remastered right0002" x="1700" y="2577" width="1043" height="697" frameX="-468" frameY="-253" frameWidth="1608" frameHeight="1197" />
+</TextureAtlas>
