@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				810,
+				510
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "oldarchy remastered idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				709,
+				475
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "oldarchy remastered left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				192
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "oldarchy remastered down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				345
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "oldarchy remastered right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				612,
+				455
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "oldarchy remastered up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oldarchy remastered",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "oldarchy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-1120,
+		-640
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
